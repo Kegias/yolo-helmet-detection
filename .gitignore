@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+dataset/
+runs/
+.env
+src/download_dataset.py
+
+.DS_Store
+.ipynb_checkpoints/
